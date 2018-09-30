@@ -1,0 +1,87 @@
+body
+{
+	background-color: #e6dfdf;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+
+#container
+{    
+    padding-top: 150px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#zegar
+{  
+    padding-top: 30px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #cf5d5d;
+	float: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 35px;
+	text-align: left;
+}
+
+#data_slubu
+{
+    padding-top: 30px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #308530;
+	float: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 35px;
+	text-align: left;
+}
+
+#pozostalo_do_slubu
+{
+    padding-top: 30px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #308530;
+	float: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 35px;
+	text-align: left;
+}
+
+#photo {
+    padding-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#title
+{
+    padding-top: 25px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #cf5d5d;
+	float: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 35px;
+	text-align: left;
+}
