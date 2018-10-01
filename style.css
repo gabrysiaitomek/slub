@@ -3,7 +3,7 @@ body
 	background-color: #e6dfdf;
 	color: #ffffff;
 	font-family: 'Lato', sans-serif;
-	font-size: 20px;
+	font-size: 5px;
 }
 
 #container
@@ -19,7 +19,7 @@ body
 
 #zegar
 {  
-    padding-top: 30px;  
+    padding-top: 20px;  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,13 +28,13 @@ body
     color: #cf5d5d;
 	float: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 35px;
+	font-size: 30px;
 	text-align: left;
 }
 
 #data_slubu
 {
-    padding-top: 30px;  
+    padding-top: 20px;  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,13 +43,28 @@ body
     color: #308530;
 	float: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 35px;
+	font-size: 30px;
+	text-align: left;
+}
+
+#pozostalo_do_slubu_wstep
+{
+    padding-top: 20px;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #308530;
+	float: center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 30px;
 	text-align: left;
 }
 
 #pozostalo_do_slubu
 {
-    padding-top: 30px;  
+    padding-top: -15px;  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -58,7 +73,7 @@ body
     color: #308530;
 	float: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 35px;
+	font-size: 50px;
 	text-align: left;
 }
 

@@ -42,6 +42,7 @@ function odliczanie(){
 
     document.getElementById("zegar").innerHTML = "Aktualna data: " + rok + "/" + miesiac + "/" + dzien + " " + godzina + ":" + minuta + ":" + sekunda; 
     document.getElementById("data_slubu").innerHTML = "Data ślubu: 2020/08/22 15:00:00" 
-    document.getElementById("pozostalo_do_slubu").innerHTML = "Pozostało do ślubu: " + days + " dni " + hours + " godzin " + minutes + " minut " + seconds + " sekund "
+    document.getElementById("pozostalo_do_slubu_wstep").innerHTML = "Pozostało do ślubu: ";
+    document.getElementById("pozostalo_do_slubu").innerHTML =  days + " dni " + hours + " godzin " + minutes + " minut " + seconds + " sekund "
     setTimeout("odliczanie()", 1000);
 }
