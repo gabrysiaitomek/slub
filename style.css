@@ -64,7 +64,7 @@ body
 
 #pozostalo_do_slubu
 {
-    padding-top: -15px;  
+    padding-top: 3px;  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -73,7 +73,7 @@ body
     color: #308530;
 	float: center;
 	font-family: 'Josefin Sans', sans-serif;
-	font-size: 50px;
+	font-size: 55px;
 	text-align: left;
 }
 
